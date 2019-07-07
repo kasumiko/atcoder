@@ -1,3 +1,4 @@
+#define _GLIBCXX_DEBUG
 #include<bits/stdc++.h>
  
 using namespace std;
@@ -60,7 +61,6 @@ int main(){
     REP(i,N){
 
     }
-    ans = 0;
     cout << ans << endl;
   }
 

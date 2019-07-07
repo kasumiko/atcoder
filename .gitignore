@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Editor Setting files
+.vscode
+
+# Input Text File
+input
+
+# Test Func Main
+test.cpp
